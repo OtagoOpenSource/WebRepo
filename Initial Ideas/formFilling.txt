@@ -1,0 +1,20 @@
+Large organisations like the University produce large numbers of forms and 
+documents that need to be completed and correctly formatted. As a small 
+example, academic staff must maintain CVs in a specific format. Much of the 
+information in the CV (publications, postgraduate supervision, teaching 
+responsibilites, etc.) is duplicated elsewhere in the system.
+
+There are many issues with a system such as this. Firstly, the forms are in a 
+variety of formats and often difficult to work with. Some are word documents, 
+some are PDFs, and many of the PDFs are not form-fillable. Secondly, the 
+duplication of information leads to data inconsistency and - whenever I publish 
+a paper I should notify the publications office (on a paper form), update my CV 
+(a word doc that I maintain), and update various websites (my personal research 
+pages, the department's research pages, the lab's research pages). These 
+rapidly get out of synch. Finally, it is often unclear to staff what forms they 
+should be using and how information should be presented.
+
+A possible solution to this would be a centralised repository of information 
+that could be used to automatically generate the required outputs. Information 
+could be done via online forms, and data could be verified and authenticated 
+when necessary. 

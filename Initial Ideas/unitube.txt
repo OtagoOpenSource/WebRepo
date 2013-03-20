@@ -1,0 +1,53 @@
+This is an email Brendan received about getting involved in Unitube, the University's streaming media server
+
+>
+> Hi Brendan,
+>
+> This sounds really interesting! An open source HEDC project that would
+> be great to get students involved in is unitube:
+>
+> http://unitube.otago.ac.nz 
+>
+> It was released under a GPL 3.0 licence (with the full permission of the
+> University via the then DVC A & I, Gareth Jones) a couple of years ago
+> and the source is available here:
+>
+> https://github.com/edmedia/unitube
+>
+> (Richard will be updating github in the next few days with the latest
+> version)
+>
+> Essentially unitube is a media sharing service but tailored specifically
+> for higher education. Staff and students use it to share audio, video,
+> pdfs, slides etc..
+>
+> Two additional features: 
+>
+> 1. Image viewer - an online microscope-like application for viewing,
+> measuring and annotating images.
+>
+> 2. A presenter tool for synchronising slides or text documents with
+> audio/video files. (A bit like slideshare)
+>
+> We're currently in the final throes of setting up an institutionally
+> managed version with ITS. When this is up and running - hopefully within
+> the next couple of months - we'll be promoting unitube much more widely.
+> Currently several hundred staff and a few otago thousand students use
+> unitube for teaching/learning related work. 
+>
+> HEDC will continue to manage ongoing development and research for the
+> project and lots of opportunities for additions, ideas etc.
+>
+> Outside of Otago, unitube is also in use by the Raukawa wananga in Otaki
+> with a version customised for them by Catalyst IT in Wellington.
+>
+> Happy to chat if you need anything further. I've cc'd our developers
+> Richard Zeng (lead) and Adon Moskal as well - please feel free to
+> contact Richard directly especially for detailed technical information.
+>
+> Cheers,
+> Jenny
+>
+>
+>
+>
