@@ -17,4 +17,9 @@ should be using and how information should be presented.
 A possible solution to this would be a centralised repository of information 
 that could be used to automatically generate the required outputs. Information 
 could be done via online forms, and data could be verified and authenticated 
-when necessary. 
+when necessary.
+
+2013-05-22
+Could we store the information locally, show the user how to format it,
+and have them upload the file for parsing? Then we have a "light" server/webapp,
+and a "heavy" user, and "heavy" specification.
